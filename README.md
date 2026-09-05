@@ -75,3 +75,6 @@ You can also run command-line scripts with:
 * [Drupal](https://github.com/dunglas/frankenphp-drupal)
 * [Joomla](https://github.com/alexandreelise/frankenphp-joomla)
 * [TYPO3](https://github.com/ochorocho/franken-typo3)
+
+
+<!-- Security scan triggered at 2026-09-05 07:44:39 -->
